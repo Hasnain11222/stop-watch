@@ -1,0 +1,20 @@
+body{
+    color: blue;
+    font-size: verdana, Geneva, Tahoma,;
+    text-align: center;
+}
+
+
+
+div>h1{
+    display: inline-block;
+    width: 100px;
+    font-size: large;
+
+}
+
+button{
+    width: 100px;
+    font-size: large;
+    color: black;
+}
